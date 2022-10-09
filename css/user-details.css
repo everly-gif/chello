@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin : 0 0;
+    padding : 0;
+}
+
+/* Navbar css starts*/
+
+nav{
+    box-shadow: 9px 5px 5px 5px #ddd;
+    background-color: #fff;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+    font-size: 18px;
+}
+.r-nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.r-nav li{
+    list-style:none;
+    margin:10px;
+}
+.r-nav a{
+    text-decoration: none;
+    padding:1rem;
+    display: block;
+}
+.toggle-button{
+    position: absolute;
+    top:2.3rem;
+    right:1rem;
+    display:none;
+    flex-direction: column;
+    justify-content: space-between;
+    width:30px;
+    height:21px;
+}
+.toggle-button .bar{
+    height:3px;
+    width:100%;
+    border-radius: 10px;
+    background-color: black;
+}
+.brand{
+    padding: 20px;
+    padding-top: 25px;
+    font-weight: bolder;
+    color: #1746A2;
+}
+
+
+.r-nav li a:hover{
+    color: #F0C929;
+    transition: all .3s ease;
+}
+/* Navbar css ends*/
+
+.dropbtn {
+    background-color: #2C2E43;
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-top:11px;
+    border: none;
+  }
+
+
+.dropdown-content {
+
+    position: absolute;
+    background-color: #fff;
+    min-width: 135px;
+    z-index: 1;
+    box-shadow: 1px 1px 2px #ddd;
+    display: none;
+  }
+
+.dropdown-content a {
+    text-decoration: none;
+    display: block;
+    color: black !important;
+    padding: 12px 16px;
+
+
+  }
+  .dropdown-content .nav-link{
+      margin:0;
+  }
+  .dropdown:hover .dropbtn {
+    background-color: #2C2E43;
+  }
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.info-cont{
+    padding:30px;
+    margin-top: 50px;
+    box-shadow: 2px 2px 20px #ccc;
+    border-radius: 20px;
+    background-color: #fff;
+}
+.info-cont h5{
+    margin-bottom: 20px;
+    
+}
+.parent-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    width:100%;
+}
+body{
+    background-color: #ccc;
+}

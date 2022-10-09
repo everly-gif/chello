@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin : 0 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+/* Navbar css starts*/
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+    font-size: 18px;
+}
+.r-nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.r-nav li{
+    list-style:none;
+    margin:10px;
+}
+.r-nav a{
+    text-decoration: none;
+    padding:1rem;
+    display: block;
+}
+.toggle-button{
+    position: absolute;
+    top:2.3rem;
+    right:1rem;
+    display:none;
+    flex-direction: column;
+    justify-content: space-between;
+    width:30px;
+    height:21px;
+}
+.toggle-button .bar{
+    height:3px;
+    width:100%;
+    border-radius: 10px;
+    background-color: black;
+}
+.brand{
+    padding: 20px;
+    padding-top: 15px;
+    font-weight: bolder;
+    color: #1746A2;
+}
+
+
+.r-nav li a:hover{
+    color: #F0C929;
+    transition: all .3s ease;
+}
+/* Navbar css ends*/
+
+.main-cont,.main-cont-2{
+    padding:20px;
+    display: flex;
+    justify-content: space-between ;
+    width:100%;
+
+}
+.main-cont .div1 h1,.main-cont-2 .div2 h1{
+    margin-bottom: 55px;
+}
+.main-cont .div1 p, .main-cont-2 .div2 p{
+    text-align: justify;
+}
+.main-cont .div1, .main-cont-2 .div2{
+    width : 70%;
+}
+.main-cont .div2 img{
+    width : 70%;
+    margin-left: 180px;
+    box-shadow:5px 5px 9px 9px #ccc;
+}
+.main-cont .div2{
+    width : 100%;
+    
+}
+.main-cont-2 .div1 img{
+    width : 100%;
+    box-shadow:5px 5px 9px 9px #ccc;
+}
+.main-cont-2 .div1{
+    width : 50%;
+    margin-right: 40px;
+}
+.main-cont-2{
+    margin-top:70px ;
+    margin-bottom:70px ;
+}
+.main-cont-2 .div2{
+    padding: 30px;
+}
+.banner{
+    background-color:black;
+    color:white;
+    padding:20px;
+    margin-top: 70px;
+    text-align: center;
+}
+.banner a{
+    margin-top: 30px;
+    display: inline-block;
+    background-color:white;
+    border:none;
+    padding : 5px 16px;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 90px;
+    
+}
+footer ul{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color:black;
+}
+footer ul li{
+    margin:20px 0px;
+}
+footer h3{
+    color:#1746A2;
+}
+.sign-off{
+    text-align: center;
+    color: #1746A2;
+    padding: 20px;
+    
+}
+.dropbtn {
+    background-color: #2C2E43;
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-top:11px;
+    border: none;
+  }
+  .dropdown-content {
+
+    position: absolute;
+    background-color: #fff;
+    min-width: 135px;
+    z-index: 1;
+    box-shadow: 1px 1px 2px #ddd;
+    display: none;
+  }
+
+
+  .dropdown-content a {
+    text-decoration: none;
+    display: block;
+    color: black !important;
+    padding: 12px 16px;
+
+
+  }
+  .dropdown-content .nav-link{
+      margin:0;
+  }
+  .dropdown:hover .dropbtn {
+    background-color: #2C2E43;
+  }
+
+  .dropdown-content a:hover {
+      background-color: #f1f1f1;
+    }
+
+
+  .dropdown:hover .dropdown-content {
+      display: block;
+    }
