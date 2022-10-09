@@ -1,5 +1,5 @@
 <nav class="navbar">
-        <div class="brand">Chello</div>
+        <div class="brand"><a href="index.php" style="text-decoration:none;color:#1746A2;">Chello<a></div>
 
         <a href="#" class="toggle-button">
             <span class="bar"></span>
