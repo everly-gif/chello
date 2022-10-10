@@ -91,8 +91,10 @@ Intended Goals were fully met, partial implementation of additional features(2/4
 
 - Datetime filter can be implemented.
 - UI can be improved.
-- Can be made responsive
+- Website should be made responsive
 
 # Acknowledgement
 
 The past few days were exciting, single handedly implementing so many features was a challenging task, but with determination I'm glad that I have completed it on time. I would like to thank the organizing team for organizing this hackathon, it was a great learning experience. 
+
+# License
