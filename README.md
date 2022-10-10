@@ -45,7 +45,7 @@ C://wamp64/www/chello
 
 # Getting Started
 
-Please watch the demo video, to understand the complete functionality of the website.<br><br>
+Please watch the [demo video](https://drive.google.com/file/d/1tm3YAWtfOGAsXhb08O-9SiKAqj7QMBX4/view?usp=sharing), to understand the complete functionality of the website.<br><br>
 Currently there are two users in the website.
 - employee [ user  ]
 - employer [ admin ]  
