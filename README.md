@@ -54,4 +54,13 @@ Here are the list of actions that can be performed by the **employee**.
 3. The employee can **update certain user details** including changing passwords **except mail ID**.  
 4. The employee can **add tasks** for **past dates and current date** not future.
 5. The employee can **view** the **pie charts and stacked bar chart** of their tasks productivity.
-6. The employee can't login after being **deactivated** by employer.
+6. The employee can't login after being **deactivated** by employer.  
+
+Here are the list of actions that can be performed by the **employer**.  
+1. The employer can **sign Up** into CHELLO
+2. The employer can **login**.   
+3. The employer can **update certain user details** including changing passwords **except mail ID**.  
+4. The employer can **add employees**.  
+5. The employer can **update employee details**
+6. The employer can **view** the **pie charts and stacked bar chart** of the respective employee.
+7. The employer can **deactivate** an employee.
