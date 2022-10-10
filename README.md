@@ -13,7 +13,7 @@ CHELLO is an employee monitoring and managing web application. It contains minim
 ## Table of Contents
 1. [Installation](#installation)
 2. [Getting Started](#getting-started)
-3. [Architecture](#architecture)
+3. [Block Diagram](#blog-diagram)
 4. [License](#license)
 
 # Installation 
@@ -68,4 +68,8 @@ Here are the list of actions that can be performed by the **employer**.
 
 Multiple employers and employees can exist in the system simultaneously.
 
-# Architecture
+# Block Diagram  
+
+<div>
+<img src="./images/block-diagram.png" alt="block-diagram">
+</div>
