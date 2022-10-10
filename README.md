@@ -55,6 +55,8 @@ Here are the list of actions that can be performed by the **employee**.
 5. The employee can **view** the **pie charts and stacked bar chart** of their tasks productivity.
 6. The employee can't login after being **deactivated** by employer.  
 
+Other actions are **restricted**, such as viewing other employees user details and admin-only web pages.<br><br>
+
 Here are the list of actions that can be performed by the **employer**.  
 1. The employer can **Sign Up** into CHELLO
 2. The employer can **login**.   
@@ -63,3 +65,7 @@ Here are the list of actions that can be performed by the **employer**.
 5. The employer can **update employee details**
 6. The employer can **view** the **pie charts and stacked bar chart** of the respective employee.
 7. The employer can **deactivate** an employee.
+
+Multiple employers and employees can exist in the system simultaneously.
+
+# Architecture
