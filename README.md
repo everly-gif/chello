@@ -37,7 +37,7 @@ C://wamp64/www/chello
 
 6. Visit `http://localhost/chello` in your browser, to view the website.
 
-7. Navigate to `phpMyAdmin` and import the `.sql` file from the `database-dump` folder.
+7. Navigate to `phpMyAdmin` and import the `emp.sql` file from the `database-dump` folder.
 
 9. Change necessary database details in `partials/db.php`.
 
@@ -85,7 +85,7 @@ Multiple employers and employees can exist in the system simultaneously.
 - Database - **MySQL**
 
 # Database
-All credentials are hashed and securedly stored, for information on schema and database architecture please view `.sql` file in `database-dump` folder. 
+All credentials are hashed and securedly stored, for information on schema and database architecture please view `emp.sql` file in `database-dump` folder. 
 
 # Result
 Intended Goals were fully met, partial implementation of additional features(2/4) where done.  
