@@ -13,8 +13,11 @@ CHELLO is an employee monitoring and managing web application. It contains minim
 ## Table of Contents
 1. [Installation](#installation)
 2. [Getting Started](#getting-started)
-3. [Block Diagram](#blog-diagram)
+3. [Block Diagram](#block-diagram)
 4. [Technolgoies](#technologies)
+5. [Result](#result)
+6. [Future Scope](#future-scope)
+7. [Acknowledgement](#acknowledgement)
 5. [License](#license)
 
 # Installation 
@@ -80,3 +83,16 @@ Multiple employers and employees can exist in the system simultaneously.
 - Frontend - **HTML, CSS, Javascript, Bootstrap, Chart js, Moment js** 
 - Backend  - **PHP**
 - Database - **MySQL**
+
+# Result
+Intended Goals were fully met, partial implementation of additional features(2/4) where done.  
+
+# Future Scope
+
+- Datetime filter can be implemented.
+- UI can be improved.
+- Can be made responsive
+
+# Acknowledgement
+
+The past few days were exciting, single handedly implementing so many features was a challenging task, but with determination I'm glad that I have completed it on time. I would like to thank the organizing team for organizing this hackathon, it was a great learning experience. 
