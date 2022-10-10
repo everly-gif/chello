@@ -13,6 +13,7 @@ CHELLO is an employee monitoring and managing web application. It contains minim
 ## Table of Contents
 1. [Installation](#installation)
 2. [Getting Started](#getting-started)
+3. [Modules](#modules)
 3. [Architecture](#architecture)
 4. [License](#license)
 
@@ -46,5 +47,11 @@ Currently there are two users in the website.
 - employee [ user  ]
 - employer [ admin ]  
 
-Here are the list of actions that can be performed by the employee.  
-1.
+The system uses **RBAC**.<br><br>
+Here are the list of actions that can be performed by the **employee**.  
+1. The employee can **only** be added by an employer. When an employer adds an employee they get an **temporary password** that they can later mail to the invited to employee so they can onboard CHELLO successfully.
+2. The employee can **login**.   
+3. The employee can **update certain user details** including changing passwords **except mail ID**.  
+4. The employee can **add tasks** for **past dates and current date** not future.
+5. The employee can **view** the **pie charts and stacked bar chart** of their tasks productivity.
+6. The employee can't login after being **deactivated** by employer.
