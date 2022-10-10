@@ -14,7 +14,8 @@ CHELLO is an employee monitoring and managing web application. It contains minim
 1. [Installation](#installation)
 2. [Getting Started](#getting-started)
 3. [Block Diagram](#blog-diagram)
-4. [License](#license)
+4. [Technolgoies](#technologies)
+5. [License](#license)
 
 # Installation 
 
@@ -73,3 +74,9 @@ Multiple employers and employees can exist in the system simultaneously.
 <div>
 <img src="./images/block-diagram.png" alt="block-diagram">
 </div>
+
+# Technologies
+
+- Frontend - **HTML, CSS, Javascript, Bootstrap, Chart js, Moment js** 
+- Backend  - **PHP**
+- Database - **MySQL**
