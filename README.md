@@ -2,7 +2,7 @@
 <div align="center">
     <img src="./images/CHELLO-crop.png" width=400px alt="chello logo">
 </div><br>
-CHELLO is an employee monitoring and managing web application. It contains minimalistic yet effective features tending to be the only employee management tool you will ever need.<br><br>
+CHELLO is an employee monitoring and managing web application. It contains minimalistic yet effective features aiming to be the only employee management tool you will ever need.<br><br>
 
 
 ## Team Details
