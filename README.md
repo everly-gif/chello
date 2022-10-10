@@ -18,7 +18,6 @@ CHELLO is an employee monitoring and managing web application. It contains minim
 5. [Result](#result)
 6. [Future Scope](#future-scope)
 7. [Acknowledgement](#acknowledgement)
-5. [License](#license)
 
 # Installation 
 
@@ -96,5 +95,3 @@ Intended Goals were fully met, partial implementation of additional features(2/4
 # Acknowledgement
 
 The past few days were exciting, single handedly implementing so many features was a challenging task, but with determination I'm glad that I have completed it on time. I would like to thank the organizing team for organizing this hackathon, it was a great learning experience. 
-
-# License
