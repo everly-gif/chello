@@ -56,7 +56,7 @@ Here are the list of actions that can be performed by the **employee**.
 6. The employee can't login after being **deactivated** by employer.  
 
 Here are the list of actions that can be performed by the **employer**.  
-1. The employer can **sign Up** into CHELLO
+1. The employer can **Sign Up** into CHELLO
 2. The employer can **login**.   
 3. The employer can **update certain user details** including changing passwords **except mail ID**.  
 4. The employer can **add employees**.  
