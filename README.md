@@ -20,7 +20,7 @@ CHELLO is an employee monitoring and managing web application. It contains minim
 1. Fork this repository or download the code zip file.<br><br>
 2. Clone the repository if forked.
 ```bash
-git clone https://github.com/everly-gif/chello.git
+git clone https://github.com/<username>/chello.git
 ```
 3. Open your local server setup, we prefer [WAMP](https://sourceforge.net/projects/wampserver/).<br><br>
 
