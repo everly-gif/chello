@@ -5,11 +5,6 @@
 CHELLO is an employee monitoring and managing web application. It contains minimalistic yet effective features aiming to be the only employee management tool you will ever need.<br><br>
 
 
-## Team Details
-
-- **Name:** Everly Precia Sureshkumar
-- **Github Username:** [everly-gif](https://github.com/everly-gif)
-
 ## Table of Contents
 1. [Installation](#installation)
 2. [Getting Started](#getting-started)
@@ -88,14 +83,10 @@ Multiple employers and employees can exist in the system simultaneously.
 All credentials are hashed and securedly stored, for information on schema and database architecture please view `emp.sql` file in `database-dump` folder. 
 
 # Result
-Intended Goals were fully met, partial implementation of additional features(2/4) where done.  
+Intended Goals were fully met.
 
 # Future Scope
 
 - Datetime filter can be implemented.
 - UI can be improved.
 - Website should be made responsive
-
-# Acknowledgement
-
-The past few days were exciting, single handedly implementing so many features was a challenging task, but with determination I'm glad that I have completed it on time. I would like to thank the flipr organizing team for organizing this hackathon, it was a great learning experience. 
